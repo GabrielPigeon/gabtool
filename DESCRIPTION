@@ -1,0 +1,10 @@
+Package: gabtool
+Type: Package
+Title: package with Gab's personnal function
+Version: 0.2
+Date: 2016-01-14
+Author: Gabriel Pigeon
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Depends: readxl, ggplot2, lubridate, lme4, plyr,dplyr, reshape2, stringr, ICC, grid,readr, magrittr
