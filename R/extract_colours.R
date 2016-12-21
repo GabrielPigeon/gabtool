@@ -4,7 +4,7 @@
 #' The code is based on dsparks' gist (https://gist.github.com/dsparks/3980277).
 #' 
 #' @param url_img URL of the image (can be PNG, JPG, JPEG, TIFF) or a local file. Can also
-#' be an \code{EBImage} "Image" object
+#' be an  "Image" object
 #' @param num_col Number of dominant colours to be extracted (default = 5)
 #' @param rsize Size to reduce original image to, for further processing. This is the size, in pixels, 
 #' for the largest dimension, from which colours are extracted. Please be careful with this option, as setting it 
@@ -29,7 +29,7 @@
 #' pie(rep(1, 5), col = pal_s, main = "Palette based on Simpsons")
 #' hist(Nile, breaks = 5, col = pal_s, main = "Palette based on Simpsons")
 #' @export
-#' @import EBImage reshape2
+#'
 
 extract_colours <- function(
   url_img = "http://developer.r-project.org/Logo/Rlogo-1.png", num_col = 5, rsize = 100) {
