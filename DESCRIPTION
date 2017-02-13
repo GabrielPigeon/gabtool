@@ -8,14 +8,10 @@ Maintainer: Gabriel Pigeon <gabriel.pigeon@usherbrooke.ca>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Depends:
-    readxl,
-    ggplot2,
-    lubridate,
     lme4,
-    plyr,dplyr,
     reshape2,
-    stringr,
     ICC,
-    grid,readr,
+    grid,
+    tidyverse,
     magrittr
 RoxygenNote: 5.0.1
