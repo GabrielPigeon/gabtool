@@ -12,6 +12,5 @@ Depends:
     reshape2,
     ICC,
     grid,
-    tidyverse,
-    magrittr
+    tidyverse
 RoxygenNote: 5.0.1
