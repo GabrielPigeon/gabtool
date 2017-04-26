@@ -15,23 +15,14 @@
 # options(stringsAsFactors=FALSE)
 #############################################################.
 # ###    install all packages  V. 13 mars 2013   ######
-# install.packages(c("ade4", "AICcmodavg",  "BaSTA",
-#                    "brew", "car","coda", "colorRamps", "colorspace",
-#                    "data.table", "devtools",
-#                    "dichromat", "digest", "doMC", "effects",
-#                    "foreach", "formatR", "gdata", "gee",  "GGally", "ggm",
-#                   "graph", "gtable", "gtools","gamm4",
-#                    "ICC",  "igraph", "IPMpack", "kinship2", "knitr",
-#                    "lavaan", "leaps", "lme4",
-#                    "lubridate", "markdown", "MasterBayes", "mclust",
-#                    "MCMCglmm",  "TeachingDemo",
-#                    "MuMIn", "munsell",  "parser",  "pedantics",
-#                    "pedigreemm", "pingr",
-#                    "plyr","dplyr",  "ggplot2", "reshape2", "readr","tidyr", "stringr","readxl",
-#                    "popbio", "extrafont",
-#                    "psych", "RBGL", "RColorBrewer", "Rcpp",
-#                     "rJava",  "rstudio",
-#                    "texreg", "vegan", "xtable",  "zoo"))
+# install.packages(c("AICcmodavg", "data.table", "devtools",
+#                   "doMC", "effects","foreach", "formatR",
+#                    "gamm4","ICC",  "igraph",  "knitr",
+#                    "lavaan","lme4","markdown", "MasterBayes", "mclust",
+#                    "MCMCglmm",  "TeachingDemo","RMySQL","Hmisc",
+#                    "MuMIn", "pedantics","tidyverse","plyr",
+#                    "popbio", "psych", "RBGL", "RColorBrewer", "Rcpp",
+#                     "rJava",  "rstudio","texreg", "vegan", "xtable",  "zoo"))
 
 ###############################################################################.
 ####                  paire-wise correlations (with pearson)
