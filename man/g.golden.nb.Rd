@@ -12,4 +12,3 @@ the golden ratio number
 \description{
 Title
 }
-

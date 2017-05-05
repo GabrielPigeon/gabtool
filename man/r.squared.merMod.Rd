@@ -16,4 +16,3 @@ This method extracts the variance for fixed and random effects, residuals,
 and the fixed effects for the null model (in the case of Poisson family),
 and calls \code{\link{.rsquared.glmm}}
 }
-

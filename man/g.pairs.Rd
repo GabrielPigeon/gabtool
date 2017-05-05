@@ -23,4 +23,3 @@ make pairs graph to observe correlations and all
 data(CO2)
 g.pairs(CO2)
 }
-

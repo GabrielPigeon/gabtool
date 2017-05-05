@@ -14,4 +14,3 @@ write.delim(d, file)
 \description{
 write tab delimited files
 }
-

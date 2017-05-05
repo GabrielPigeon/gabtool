@@ -23,4 +23,3 @@ caculate angle between 2 vectors
 g.angle(c(1,3,4),c(0,0,-4),"degree")
 
 }
-

@@ -17,4 +17,3 @@ an ordered vector of numeric representing the initial factors
 Make Kags Key
 convert categorical values to numeric in order of their occurence in the df
 }
-

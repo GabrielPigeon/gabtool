@@ -20,4 +20,3 @@ find NAs in a dataframe & otionaly graph them
 \examples{
 find.na(data,plot=T)
 }
-

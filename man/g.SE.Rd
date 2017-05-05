@@ -15,4 +15,3 @@ SE
 \description{
 caculate SE
 }
-

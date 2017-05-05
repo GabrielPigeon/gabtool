@@ -16,4 +16,3 @@ check.normal(x, breaks = 10, ...)
 \description{
 Title
 }
-

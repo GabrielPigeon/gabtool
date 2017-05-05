@@ -16,4 +16,3 @@ g.colorPalette(name, n, type = c("discrete", "continuous"))
 \description{
 get a color palette
 }
-

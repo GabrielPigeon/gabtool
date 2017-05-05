@@ -40,4 +40,3 @@ par(mfrow = c(1,2))
 pie(rep(1, 5), col = pal_s, main = "Palette based on Simpsons")
 hist(Nile, breaks = 5, col = pal_s, main = "Palette based on Simpsons")
 }
-

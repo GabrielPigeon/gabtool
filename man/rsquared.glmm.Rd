@@ -17,4 +17,3 @@ a dataframe with one row per model, and "Class",
 This function calls the generic \code{\link{r.squared}} function for each of the
 models in the list and rbinds the outputs into one data frame
 }
-

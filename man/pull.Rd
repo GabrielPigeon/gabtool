@@ -17,4 +17,3 @@ a vector
 \description{
 exctract a column from dplyr as a vector
 }
-

@@ -16,4 +16,3 @@ multiplot(..., plotlist = NULL, ncol)
 \description{
 draw multile ggplot graphs
 }
-

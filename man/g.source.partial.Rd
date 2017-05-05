@@ -18,4 +18,3 @@ g.source.partial(file, start = 0, end = NULL, ...)
 \description{
 Title
 }
-
